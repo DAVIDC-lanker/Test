@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-    public class HelloWorld {
+    public class CosineLaw {
 
         public static void main(String[] args) {
             Scanner keyboard = new Scanner(System.in);
@@ -29,4 +29,5 @@ import java.util.Scanner;
                 
         }
     }
+
 
